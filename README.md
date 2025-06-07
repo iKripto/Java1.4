@@ -26,7 +26,7 @@ cd src
 2. **Compile os arquivos Java:**
 
 ```bash
-javac App.java Fatorial.java
+javac App.java ConversorTemperatura.java
 ```
 
 3. **Execute o programa:**
